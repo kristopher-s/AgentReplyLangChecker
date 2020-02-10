@@ -1,3 +1,5 @@
+//initial working version
+
 answersBackofficeSdk.addListener(answersBackofficeSdk.eventTypes.ticketReplied, function (replyContent) {
 
   //stores reply object content
