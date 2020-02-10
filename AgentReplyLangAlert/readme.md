@@ -10,9 +10,7 @@ IMPROVEMENT IDEAS
 -------------
 
 * Run code every 1000ms using setInterval
-* Hide Reply button if bad word present
-* .reply-buttons
-* Show Reply buttons if bad word NOT present
-* .reply-buttons
+* Hide Reply button (.reply-buttons) if bad word present
+* Show Reply buttons (.reply-buttons) if bad word NOT present
 * Show warning message if bad word present.
 * Hide warning message if bad word NOT present.
