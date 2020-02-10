@@ -1,5 +1,5 @@
 LIMITATIONS
-====================
+-------------
 
 * Checks agent reply AFTER it's been sent.
 * Doesn't actually do anything besides a window alert.
@@ -7,7 +7,7 @@ LIMITATIONS
 * REGEX or using a "bad" word library might be better than array of "bad" words.
 
 IMPROVEMENT IDEAS
-====================
+-------------
 
 * Run code every 1000ms using setInterval
 * Hide Reply button if bad word present
