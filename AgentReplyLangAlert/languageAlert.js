@@ -1,4 +1,3 @@
-
 answersBackofficeSdk.addListener(answersBackofficeSdk.eventTypes.ticketLoaded, function () {
 setInterval(checkWords, 2000);
 });
